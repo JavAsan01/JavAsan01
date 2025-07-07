@@ -16,24 +16,24 @@
       </ul>
       <p>📩 <em>¡Estoy abierto a colaborar en proyectos interesantes y desafiantes!</em></p>
     </td>
-    <td style="text-align: center; vertical-align: top;">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding GIF" width="250px" />
-    </td>
+    <td style="text-align: center; vertical-align: top; padding: 20px; background: linear-gradient(145deg, #f8f9fa, #e9ecef); border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+      <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+        <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); transition: transform 0.3s ease; background: #fff; padding: 8px;">
+          <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
+               alt="Coding GIF" 
+               width="250px" 
+               style="border-radius: 6px; display: block; max-width: 100%; height: auto;" />
+      </div>
+      <div style="border-radius: 10px; overflow: hidden; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); transition: transform 0.3s ease; background: #fff; padding: 8px;">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWplY2EwNTBjbHVwcjdqeDkyZGxmZTgxaTAwenh2NmJhejhvdmEycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" 
+             alt="Programming GIF" 
+             width="250px" 
+             style="border-radius: 6px; display: block; max-width: 100%; height: auto;" />
+      </div>
+    </div>
+  </td>
   </tr>
 </table>
-
----
-
-## ☎️ Contacto
-
-<div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://www.linkedin.com/in/carlos-asanza-8a7817209/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" height="40px"/>
-  </a>
-  <a href="mailto:javasan.dev@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40px" height="40px"/>
-  </a>
-</div>
 
 ---
 
@@ -61,6 +61,19 @@
 - ☁️ Cloud Computing (AWS, Azure, GCP)
 - 🏗️ Arquitectura de Microservicios y Sistemas Distribuidos
 - 🔐 Ciberseguridad y DevSecOps
+
+---
+
+## ☎️ Contacto
+
+<div style="display: flex; gap: 30px; align-items: center; padding: 20px 0;">
+  <a href="https://www.linkedin.com/in/carlos-asanza-8a7817209/" target="_blank" style="transition: transform 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45px" height="45px" style="filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.15)); border-radius: 8px;"/>
+  </a>
+  <a href="mailto:javasan.dev@gmail.com" target="_blank" style="transition: transform 0.3s ease;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="45px" height="45px" style="filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.15)); border-radius: 8px;"/>
+  </a>
+</div>
 
 ---
 
