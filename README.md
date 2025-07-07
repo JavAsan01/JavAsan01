@@ -33,9 +33,6 @@
   <a href="mailto:javasan.dev@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40px" height="40px"/>
   </a>
-  <a href="https://javierasanza.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" height="40"/>
-  </a>
 </div>
 
 ---
