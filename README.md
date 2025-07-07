@@ -40,7 +40,7 @@
 ## 💡 Habilidades Técnicas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,vue,react,nodejs,angular,spring,git,postgres,mysql,firebase,gcp,postman,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,vue,react,nodejs,php,laravel,django,fastapi,rabbitmq,redis,git,postgres,mysql,aws,gcp,postman,docker&perline=10" />
 </p>
 
 ---
