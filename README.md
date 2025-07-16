@@ -39,10 +39,57 @@
 
 ## 💡 Habilidades Técnicas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,vue,react,nodejs,php,laravel,django,fastapi,rabbitmq,redis,git,postgres,mysql,aws,gcp,postman,docker&perline=10" />
+### 💻 Lenguajes de Programación
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,php&perline=5" />
 </p>
 
+### 🎨 Desarrollo Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,react&perline=5" />
+</p>
+
+### 🔧 Desarrollo Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,fastapi,laravel&perline=5" />
+</p>
+
+### 🗄️ Bases de Datos & Cache
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=5" />
+</p>
+
+### 📦 Mensajería & Procesamiento de Tareas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rabbitmq&perline=5" />
+  <br />
+  <strong>Adicional:</strong> Celery (Task Queue en Python)
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker&perline=5" />
+</p>
+
+### 🛠️ Herramientas de Desarrollo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,postman&perline=5" />
+</p>
+
+### 🔒 Ciberseguridad & Pentesting
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali&perline=5" />
+  <br />
+  <strong>Distribuciones:</strong> Kali Linux, Parrot OS
+  <br />
+  <strong>Herramientas:</strong> Nmap, Metasploit, Burp Suite, Wireshark, John the Ripper, Hydra, Gobuster, SQLMap, Aircrack-ng
+  <br />
+  <strong>Prácticas Técnicas:</strong> Ethical Hacking, Análisis de vulnerabilidades, Pruebas de penetración en aplicaciones web y redes, Explotación de servicios.
+  <br />
+  <strong>Normativas & Estándares:</strong> Implementación y mantenimiento de Sistemas de Gestión de Seguridad de la Información (SGSI) basados en <em>ISO/IEC 27001</em>.
+  <br />
+  <strong>Políticas & Procedimientos:</strong> Desarrollo y aplicación de políticas de seguridad, análisis y gestión de riesgos, control de accesos, respuesta ante incidentes, continuidad de negocio y concienciación de usuarios.
+</p>
 ---
 
 ## 💼 Experiencia Profesional
