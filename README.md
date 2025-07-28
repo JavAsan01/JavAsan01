@@ -149,18 +149,18 @@
 
 ---
 
-## ✍️ Cita Aleatoria de Desarrollador
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cita aleatoria de desarrollador" />
-</p>
-
----
-
 ## 🔝 Repositorios con más contribuciones
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=JavAsan01&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Repositorios más contribuido" />
+</p>
+
+---
+
+## ✍️ Cita Aleatoria de Desarrollador
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cita aleatoria de desarrollador" />
 </p>
 
 ---
