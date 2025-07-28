@@ -183,7 +183,7 @@
 
 <div align="center">
   💭 <i>"El código limpio no se escribe siguiendo un conjunto de reglas. El profesionalismo y la artesanía provienen de valores que impulsan disciplinas."</i><br>
-  📍 <strong>Ecuador 🇪🇨:</strong><br>
+  📍 <strong>Ecuador 🇪🇨 </strong><br>
   ⭐️ <sub>By Javier Asanza | Hecho con 💙 y muchas ☕</sub>
 </div>
 
