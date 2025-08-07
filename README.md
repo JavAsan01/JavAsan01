@@ -125,6 +125,29 @@
 
 ---
 
+## 📈 Actividad Reciente
+
+<!--RECENT_ACTIVITY:start-->
+### 🚀 Últimos Commits
+- 🔧 Fix: Corrección en validación de formularios (hace 2 horas)
+- ✨ Feature: Nuevo sistema de notificaciones (hace 1 día)
+- 📝 Docs: Actualización de documentación API (hace 2 días)
+- 🐛 Fix: Resolución de bug en autenticación (hace 3 días)
+- 🎨 Style: Mejoras en diseño responsive (hace 4 días)
+
+### 📊 Estadísticas Semanales
+- 💻 **Commits esta semana**: 12
+- 🔥 **Líneas de código**: +1,847 / -523
+- 📦 **Repositorios activos**: 5
+- 🌟 **Nuevas estrellas recibidas**: 8
+
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+**Última actualización**: Jueves, 7 de Agosto de 2025, 1:28:03 PM
+<!--RECENT_ACTIVITY:last_update_end-->
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
