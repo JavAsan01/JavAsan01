@@ -205,3 +205,26 @@
 </p>
 
 ---
+
+---
+
+## 📈 Actividad Reciente
+
+<!--RECENT_ACTIVITY:start-->
+### 🚀 Últimos Commits
+- Clean up duplicate recent activity sections (hace 11 segundos ago)
+- 🤖 Actualización automática de actividad reciente (hace 3 horas ago)
+- 🤖 Actualización automática de actividad reciente (hace 7 horas ago)
+- 🤖 Actualización automática de actividad reciente (hace 11 horas ago)
+- 🤖 Actualización automática de actividad reciente (hace 15 horas ago)
+
+### 📊 Estadísticas Semanales
+- 💻 **Commits esta semana**: 43
+- 🔥 **Líneas de código**: +2 / -123
+- 📦 **Repositorios activos**: 1
+- 🌟 **Estrellas del repositorio**: 0
+
+<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:last_update-->
+**Última actualización**: Viernes, 29 de Agosto de 2025,  7:31:30 PM
+<!--RECENT_ACTIVITY:last_update_end-->
